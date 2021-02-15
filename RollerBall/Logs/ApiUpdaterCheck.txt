@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 2021/02/15 22:32:26 : Starting /Users/kyohei/unity/2020.2.3f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122.124ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 243ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2021/02/15 22:34:48 : Starting /Users/kyohei/unity/2020.2.3f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 39.395ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 199ms
+candidates check time : 38ms
+console write time    : 0ms
+
